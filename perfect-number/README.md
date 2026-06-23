@@ -11,11 +11,11 @@ java
 
 ## Runtime
 
-2095
+2095 ms
 
 ## Memory
 
-41924000
+41924000 bytes
 
 
 ## Approach
